@@ -1,4 +1,4 @@
-🌍 Project 4: Tourist Attraction Recommender
+🌍 Tourist Attraction Recommender
 📌 Overview
 
 This project builds a machine learning-powered recommender system for predicting and analyzing tourist preferences across different destinations. It integrates classification models (for predicting visit modes) and regression models (for forecasting ratings), along with EDA visualizations to uncover travel patterns. The project is deployed with a Streamlit dashboard.
